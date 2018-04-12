@@ -16,6 +16,8 @@ public abstract class Animal {
         return super.equals(o);
     }
 
+    abstract
+
     public void setBodyColor(Color bodyColor) {
 //        this. = bodyColor;
     }
