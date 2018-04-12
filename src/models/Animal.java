@@ -7,7 +7,7 @@ import enums.Color;
  */
 public abstract class Animal {
 
-    public Color getBodyColor() {
+    public Color get11111() {
         return null;
     }
 
