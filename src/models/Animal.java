@@ -20,4 +20,8 @@ public abstract class Animal {
                 "bodyColor=" + bodyColor +
                 '}';
     }
+
+    public Color getBodyColor() {
+        return bodyColor;
+    }
 }
